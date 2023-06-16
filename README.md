@@ -1,5 +1,7 @@
 # BUTTERFLY🦋🦋🦋🦋【蝴蝶】
 
+vidoe：https://youtu.be/DlkraCkQyFY
+
 🦋I used the DCGAN tutorial on the tensorflow official website to complete the training, using a butterfly dataset I made myself, and the pictures came from pinterest and the butterfly and moth dataset. This is my first attempt at making my own dataset, and the first time importing my own dataset into a model.
 
 🦋I want to make DCGAN generate new butterfly pictures by learning pictures of butterflies. Some butterfly illustrations and specimens are also included in the data set for DCGAN to learn together.
