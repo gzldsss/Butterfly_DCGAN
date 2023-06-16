@@ -26,4 +26,4 @@ I modified the part of importing the dataset to have the model read the zip file
 
 Butterfly & Moths Image Classification 100 species： https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species
 
-I made a butterfly dataset, which contains some butterfly specimens, butterfly illustrations, I downloaded these pictures on pinterest， and some images from the Butterfly & Moths Image Classification 100 species dataset.
+I made a butterfly dataset, which contains some butterfly specimens, butterfly illustrations, I downloaded these pictures on pinterest， and some images from the Butterfly & Moths Image Classification 100 species dataset. This data set contains 3019 pictures, and the picture size is 64*64.
