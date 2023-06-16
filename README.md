@@ -8,8 +8,15 @@
 
 ## Generated Image
 
-![01](https://github.com/gzldsss/Butterfly_DCGAN/assets/118484191/b783a580-b4be-40ba-952b-5c61f3cce220)
-![02](https://github.com/gzldsss/Butterfly_DCGAN/assets/118484191/2082f213-4f04-4ea2-b8f3-5137e521eef6)
+![01](https://github.com/gzldsss/Butterfly_DCGAN/assets/118484191/d66f993e-6b2f-488f-99b2-fda6063e61bb)
+![02](https://github.com/gzldsss/Butterfly_DCGAN/assets/118484191/af76e98a-300b-4679-a53c-ff5c653ece1e)
+
 
 
 After setting eporch to 500, the outline and color of the butterfly can be generated.
+
+## Code
+
+The original code comes from the DCGAN tutorial： https://www.tensorflow.org/tutorials/generative/dcgan
+
+I modified the part of importing the dataset to have the model read the zip file and adapt the model to the dataset I made. I also modified the layers to correspond to the size of the dataset image and the color channel.
